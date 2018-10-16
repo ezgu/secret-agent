@@ -1,0 +1,25 @@
+html{
+  box-sizing: border-box;
+}
+.header, footer, span{
+  background-color: black;
+  color: white;
+}
+.banner{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/moto.jpeg");
+}
+.text{
+  display: flex;
+.words{
+  background-color: black;
+}
+}
+h2{
+  text-align: center;
+  background-color: red;
+}
+.image{
+  display: flex;
+  border: 1px solid black;
+  justify-content: center;
+}
